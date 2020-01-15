@@ -1,4 +1,5 @@
 1. Download data set
+
 	-downloaded and extracted under 'UCI HAR Dataset' folder
 
 2. Assign data files to variables
